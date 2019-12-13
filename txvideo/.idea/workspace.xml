@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f50c13c-02f9-4dca-b905-62e35da27c38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UumUBO7FWxApOsCbJnC2qirRVi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hoo\Documents\python\txvideo\txvideo\spiders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hoo\Documents\python\txvideo\txvideo\spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LinesUtils">
+    <configuration name="LinesUtils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="txvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/txvideo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txvideo/LinesUtils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="txvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/txvideo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txvideo/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txvurl_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="txvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/txvideo/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txvideo/spiders/txvurl_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LinesUtils" />
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.txvurl_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f50c13c-02f9-4dca-b905-62e35da27c38" name="Default Changelist" comment="" />
+      <created>1576214867182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576214867182</updated>
+      <workItem from="1576214868548" duration="12725000" />
+      <workItem from="1576231632412" duration="7948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1061" y="445" key="FileChooserDialogImpl" timestamp="1576244101343">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="445" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1576244101343" />
+    <state width="2517" height="531" key="GridCell.Tab.0.bottom" timestamp="1576241927423">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="173" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1576221709511" />
+    <state width="2517" height="531" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576241927423" />
+    <state width="2517" height="531" key="GridCell.Tab.0.center" timestamp="1576241927423">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="173" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1576221709510" />
+    <state width="2517" height="531" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576241927423" />
+    <state width="2517" height="531" key="GridCell.Tab.0.left" timestamp="1576241927423">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="173" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1576221709509" />
+    <state width="2517" height="531" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576241927423" />
+    <state width="2517" height="531" key="GridCell.Tab.0.right" timestamp="1576241927423">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="173" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1576221709511" />
+    <state width="2517" height="531" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576241927423" />
+    <state width="1342" height="317" key="GridCell.Tab.1.bottom" timestamp="1576231575153">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="317" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1576217557952" />
+    <state width="1342" height="317" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576231575153" />
+    <state width="1342" height="317" key="GridCell.Tab.1.center" timestamp="1576231575152">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="317" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1576217557952" />
+    <state width="1342" height="317" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576231575152" />
+    <state width="1342" height="317" key="GridCell.Tab.1.left" timestamp="1576231575152">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="317" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1576217557951" />
+    <state width="1342" height="317" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576231575152" />
+    <state width="1342" height="317" key="GridCell.Tab.1.right" timestamp="1576231575152">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="317" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1576217557952" />
+    <state width="1342" height="317" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576231575152" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1576230081442">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1576230081442" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/txvideo$txvurl_spider.coverage" NAME="txvurl_spider Coverage Results" MODIFIED="1576230827871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/txvideo/spiders" />
+    <SUITE FILE_PATH="coverage/txvideo$start.coverage" NAME="start Coverage Results" MODIFIED="1576231922296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/txvideo" />
+    <SUITE FILE_PATH="coverage/txvideo$LinesUtils.coverage" NAME="LinesUtils Coverage Results" MODIFIED="1576241927410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/txvideo" />
+  </component>
+</project>
