@@ -3,7 +3,7 @@ import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
-from txvideo.items import Txurl
+from txvideo.txvideo.items import Txurl
 
 
 def getUrl(current):

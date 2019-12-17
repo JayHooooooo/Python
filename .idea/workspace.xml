@@ -1,11 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="262df36b-502a-4782-9f4b-0e3dbb347fbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UvjrxFzmYKY7FPpPD2LTG45qJ2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.Score">
+    <configuration name="MySQL2EXCEL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tencent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/txvideo/txvideo/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txvideo/txvideo/data/MySQL2EXCEL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Score" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tencent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/txvideo/txvideo/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txvideo/txvideo/analysis/Score.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_getDate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tencent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/txvideo/txvideo/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txvideo/txvideo/analysis/db_getDate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="platPic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tencent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/txvideo/txvideo/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txvideo/txvideo/analysis/platPic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Score" />
+        <item itemvalue="Python.db_getDate" />
+        <item itemvalue="Python.platPic" />
+        <item itemvalue="Python.MySQL2EXCEL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262df36b-502a-4782-9f4b-0e3dbb347fbc" name="Default Changelist" comment="" />
+      <created>1576244165215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576244165215</updated>
+      <workItem from="1576244166686" duration="353000" />
+      <workItem from="1576249540851" duration="1622000" />
+      <workItem from="1576493478826" duration="21000" />
+      <workItem from="1576562069739" duration="3324000" />
+      <workItem from="1576567456204" duration="7360000" />
+    </task>
+    <task id="LOCAL-00001" summary="version 0.0.1">
+      <created>1576244195706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576244195706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="version 0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 0.0.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="146" key="#SQL_Dialects" timestamp="1576250494332">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="690" y="146" key="#SQL_Dialects/0.0.1504.963@0.0.1504.963" timestamp="1576250494332" />
+    <state x="903" y="300" key="CommitChangelistDialog2" timestamp="1576244194719">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="903" y="300" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1576244194719" />
+    <state x="1061" y="459" key="FileChooserDialogImpl" timestamp="1576493497883">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1576493497883" />
+    <state width="2517" height="270" key="GridCell.Tab.0.bottom" timestamp="1576574887390">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="256" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1576566038525" />
+    <state width="2517" height="270" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1576574887390" />
+    <state width="2517" height="270" key="GridCell.Tab.0.center" timestamp="1576574887390">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="256" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1576566038525" />
+    <state width="2517" height="270" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1576574887390" />
+    <state width="2517" height="270" key="GridCell.Tab.0.left" timestamp="1576574887390">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="256" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1576566038524" />
+    <state width="2517" height="270" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1576574887390" />
+    <state width="2517" height="270" key="GridCell.Tab.0.right" timestamp="1576574887390">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1461" height="256" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1576566038525" />
+    <state width="2517" height="270" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1576574887390" />
+    <state x="871" y="189" key="SettingsEditor" timestamp="1576574884951">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="512" y="130" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1576249886900" />
+    <state x="871" y="189" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1576574884951" />
+    <state x="873" y="437" key="Vcs.Push.Dialog.v2" timestamp="1576574953480">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1576574953480" />
+    <state x="937" y="354" width="672" height="676" key="search.everywhere.popup" timestamp="1576571217142">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="937" y="354" width="672" height="676" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1576571217142" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tencent$db_getDate.coverage" NAME="db_getDate Coverage Results" MODIFIED="1576572932621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/txvideo/txvideo/analysis" />
+    <SUITE FILE_PATH="coverage/tencent$platPic.coverage" NAME="platPic Coverage Results" MODIFIED="1576570218803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/txvideo/txvideo/analysis" />
+    <SUITE FILE_PATH="coverage/tencent$MySQL2EXCEL.coverage" NAME="MySQL2EXCEL Coverage Results" MODIFIED="1576251207899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/txvideo/txvideo/data" />
+    <SUITE FILE_PATH="coverage/tencent$Score.coverage" NAME="Score Coverage Results" MODIFIED="1576574095797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/txvideo/txvideo/analysis" />
   </component>
 </project>

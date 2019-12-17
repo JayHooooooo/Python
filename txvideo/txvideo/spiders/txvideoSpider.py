@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
-from txvideo.LinesUtils import Lines
-from txvideo.items import Txvideo
+from txvideo.txvideo.LinesUtils import Lines
+from txvideo.txvideo.items import Txvideo
 
 
 class TxvideospiderSpider(scrapy.Spider):
